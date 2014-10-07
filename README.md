@@ -28,5 +28,5 @@ We are aware the project is quite ambitious, but we are commite to, at least giv
 
 Many more stages can be added and will be added, but for the time being this should suffice.
 
-(to be continued...  )
+(to be continued...)
 
