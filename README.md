@@ -1,7 +1,7 @@
 fluav
 =====
 
-  Fuzzy Logic based UAV, for use with a RPi and Arduino.
+  Fuzzy Logic based UAV in C++ (for Raspberry Pi and Arduino)
 
 
 The project's intention is to create an UAV autopilot system, flexible and modular. The following lists the goals for this project:
