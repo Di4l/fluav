@@ -36,12 +36,7 @@ The project (so far) involves compiling for different architectues (ARM for RPi,
 
 src         (source code folder)
 
-  |
-  
   + rpi     (module that points to fluav-rpi)
-  
-  |
-  
-  \ arduino (module pointing to fluav-arduino)
+  + arduino (module pointing to fluav-arduino)
 
   
