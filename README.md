@@ -28,5 +28,17 @@ We are aware the project is quite ambitious, but we are commite to, at least giv
 
 Many more stages can be added and will be added, but for the time being this should suffice.
 
-(to be continued...)
 
+Repository structure
+====================
+
+The project (so far) involves compiling for different architectues (ARM for RPi, Atmel for Arduino, x86 for PC...), all of which share common parts. We have, therefore, created different folders as modules within the src directory that recreate/point to the different architecture builds. The strcuture then, looks like:
+
+src         (source code folder)
+  |
+  + rpi     (module that points to fluav-rpi)
+  |
+  \ arduino (module pointing to fluav-arduino)
+
+
+  
